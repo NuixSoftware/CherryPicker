@@ -1,8 +1,4 @@
 # Analysis of Cherry Picker POS Malware (De)Obfuscation
-This article is laid out to go from overview to specifics then to low level
-details. Read as far as you want and realize that everything below is more
-technical than what is above.
-
 You might have heard about a bit of malware called Cherry Picker POS that
 targets point-of-sale systems. It’s been around since 2011 but it
 [remained largely undetected by antivirus solutions](http://www.darkreading.com/vulnerabilities---threats/cherry-picker-pos-malware-has-remained-hidden-for-four-years/d/d-id/1323128)
